@@ -2,6 +2,8 @@
 
 This hands-on workshop shows learners how they can seamlessly switch from SAS® , SQL, R, and Python within a project – under the mantra of "use the right tool for the job".  Or, more simply put: use the tool you know. This activity follows a new policy analyst at the Department of Health and Human Services, who is tasked with understanding how the coronavirus, i.e., COVID19, impacted the labor supply of prime-aged women across the United States. Along that policy journey, you'll also gain exposure to SAS®  Viya Workbench, our latest-and-greatest coding environment!
 
+Use the following line of code to clone the required GitHub repo: git clone https://github.com/lincolngroves/SAS-OTJ-HHS2.git
+
 ## Important Information
 
 This site provides the hands-on instructions for a specific SAS Innovate 2025 provided by SAS Education.  The instructions in these pages are specific to the workshop and ***should not*** be considered a replacement for the official [SAS Documentation](http://documentation.sas.com).  Some parts of these instructions will **only** work correctly in the Lab environments provided by SAS Education.
